@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/bin/Debug/net7.0/Int_Pra_44_NullableTypes
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/bin/Debug/net7.0/Int_Pra_44_NullableTypes.deps.json
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/bin/Debug/net7.0/Int_Pra_44_NullableTypes.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/bin/Debug/net7.0/Int_Pra_44_NullableTypes.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/bin/Debug/net7.0/Int_Pra_44_NullableTypes.pdb
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/obj/Debug/net7.0/Int_Pra_44_NullableTypes.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/obj/Debug/net7.0/Int_Pra_44_NullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/obj/Debug/net7.0/Int_Pra_44_NullableTypes.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/obj/Debug/net7.0/Int_Pra_44_NullableTypes.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/obj/Debug/net7.0/Int_Pra_44_NullableTypes.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/obj/Debug/net7.0/Int_Pra_44_NullableTypes.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/obj/Debug/net7.0/refint/Int_Pra_44_NullableTypes.dll
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/obj/Debug/net7.0/Int_Pra_44_NullableTypes.pdb
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/obj/Debug/net7.0/Int_Pra_44_NullableTypes.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/Int_Pra_44_NullableTypes/Int_Pra_44_NullableTypes/obj/Debug/net7.0/ref/Int_Pra_44_NullableTypes.dll
